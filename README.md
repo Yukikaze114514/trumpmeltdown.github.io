@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/xyzx1410/ironhead.githob.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xyzx1410/ironhead.githob.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##这是一个名字叫特朗普熔断的页面
+我是一名常熟的高三学生.
+这是我第一次在Github上创建项目,也是第一次接触编程.
+因为自己技术能力不够,目前这个网站啥都没有,真的很抱歉.
+诚挚希望有好心人帮忙搭建(甚至)这个页面.
+###宗旨
+该网站旨在记录特朗普就任美国总统时在新冠病毒影响下的美国经济
+###目前计划
+1.添加美国股市的即时显示
+2.添加美国股市熔断的记录
+3.添加相关媒体报刊对美国股市的新闻报道
+###联系我
+因为我在4月1日就开学了,可能无法完全回复,希望有好心人能够帮忙搭建
+联系邮箱:trumpmeltdown@163.com
