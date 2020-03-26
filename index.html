@@ -1,12 +1,74 @@
 <html>
 <head>
-<link rel="stylesheet" type="text/css" href="index.css" />
+<script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.8.0.js">
+</script>
+<script src="http://hq.sinajs.cn/list=int_dji" type="text/javascript" id="getdji" >
+</script>
+<script src="http://hq.sinajs.cn/list=int_nasdaq" type="text/javascript" id="getnasdaq">
+</script>
+<script src="http://hq.sinajs.cn/list=int_sp500" type="text/javascript" id="getsp500">
+</script>
+<script src="stock.js">
+</script>
+<script>var fuckyou=1;</script>
+<script id="fuck">fuckyou = fuckyou + 1;</script>
+<link rel="stylesheet" type="text/css" href="head.css" />
 <title>特朗普熔断</title>
 </head>
 <body>
 <div id="header"><h1>特朗普熔断</h1></div>
 <hr/>
-<p>特朗普熔断是一个网页,用来展示美国经济在特朗普领导下的表现.</p>
+<h2>当前数据</h2>
+<table id="table1">
+<tr>
+<td id="table1_11">名称</td>
+<td id="table1_12">当前指数</td>
+<td id="table1_13">涨/跌额</td>
+<td id="table1_14">涨跌幅</td>
+</tr>
+<tr>
+<td id="table1_21">标普指数</td>
+<td id="table1_22">null</td>
+<td id="table1_23">null</td>
+<td id="table1_24">null</td>
+</tr>
+<tr>
+<td id="table1_31">纳斯达克</td>
+<td id="table1_32">null</td>
+<td id="table1_33">null</td>
+<td id="table1_34">null</td>
+</tr>
+<tr>
+<td id="table1_41">道琼斯</td>
+<td id="table1_42">null</td>
+<td id="table1_43">null</td>
+<td id="table1_44">null</td>
+</tr>
+</table>
+<h2>历史熔断</h2>
+<table id="table2">
+<tr>
+<td id="table2_11">次数</td>
+<td id="table2_12">日期</td>
+<td id="table2_13">在位总统</td>
+<td id="table2_14">跌幅</td>
+<td id="table2_15">距上一次时间</td>
+</tr>
+<tr>
+<td id="table2_21">null</td>
+<td id="table2_22">null</td>
+<td id="table2_23">null</td>
+<td id="table2_24">null</td>
+<td id="table2_25">null</td>
+</tr>
+<tr>
+<td id="table2_31">null</td>
+<td id="table2_32">null</td>
+<td id="table2_33">null</td>
+<td id="table2_34">null</td>
+<td id="table2_35">null</td>
+</tr>
+</table>
 <h2>更新计划</h2>
 <p>1. 添加美国股市的即时数据.</br>
 2. 汇总美国股市的历史熔断.</br>

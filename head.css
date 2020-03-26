@@ -1,0 +1,19 @@
+#header {background-color: blue;
+	 text-align: center;
+	 color: white; }
+html {text-align: center;}
+table {border-collapse: collapse;}
+table, th, td
+		{text-align: center;
+		border: 1px solid black;}
+#table1
+{
+margin-left:auto;
+margin-right:auto;
+}
+#table2
+{
+margin-left:auto;
+margin-right:auto;
+}
+ 
